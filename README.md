@@ -10,7 +10,7 @@ Some of the my best colours
 |:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|
 |#fe4a49 | #2ab7ca | #fed766 | #e6e6ea | #f4f4f8 |
 
-![](a.jpg)
+<img src="a.png" alt="color" width="500" height="30">
 
 <br>
 
@@ -21,7 +21,7 @@ Shades of blues. Darkest to light blue
 |#051e3e | #011f4b | #03396c | #005b96 | #0e9aa7 |
 
 
-![](b.jpg)
+<img src="b.png" alt="color" width="500" height="30">
 
 <br>
 
