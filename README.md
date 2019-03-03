@@ -25,9 +25,9 @@ Shades of blues. Darkest to light blue
 
 <br>
 
-Cool Moonlight black - #4a4e4d  <img src="c.png" alt="color" width="30" height="30">
+Cool Moonlight black - #4a4e4d  &nbsp;    <img src="c.png" alt="color" width="30" height="20">
 
-Night black - #1e1f26  <img src="d.png" alt="color" width="30" height="30">
+Night black - #1e1f26   &nbsp;    <img src="d.png" alt="color" width="30" height="20">
 
 ---
 
