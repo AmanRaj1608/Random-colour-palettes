@@ -1,6 +1,16 @@
 # Color-Pellets
 
-Some awesome and useful colour pellets for Web development
+---
+
+## Random Color Palette
+
+**I have made this automatic color generator with help of codes available on [Stack Overflow](https://stackoverflow.com/a/41491220/10997917)**
+
+#### [Here]() is the live working webpage to get different random color palletes
+
+---
+
+## Some my favourite colour pellets which i use for Web development
 
 <br>
 
