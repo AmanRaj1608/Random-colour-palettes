@@ -1,50 +1,44 @@
-# Awesome Color Palettes
+<p align="center"><img src="https://image.flaticon.com/icons/png/512/2115/2115639.png" width="175"></p>
+<p align="center">
+  <a href="https://github.com/AmanRaj1608/Random-colour-palettes/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/AmanRaj1608/Random-colour-palettes"></a>
+  <a href="https://github.com/AmanRaj1608/Random-colour-palettes/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AmanRaj1608/Random-colour-palettes"></a>
+  <a href="https://github.com/AmanRaj1608/Random-colour-palettes/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/AmanRaj1608/Random-colour-palettes"></a>
+  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FAmanRaj1608%2FRandom-colour-palettes"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAmanRaj1608"></a>
+  <a href="https://github.com/AmanRaj1608/Random-colour-palettes"><img alt="GitHub license" src="https://img.shields.io/github/license/AmanRaj1608/Random-colour-palettes"></a>
+</p>
+
+<h1 align="center">Awesome Color Palettes</h1>
+
+The super fast color schemes generator. 
+Create random images every time you refresh the browser, save and share perfect palettes in seconds!
+
+
+Fast and simple app made using ```HTML/CSS and JavaScript```. Taken help of code available on [Stack Overflow](https://stackoverflow.com/a/41491220/10997917).
+
+### Motivation and Features
+
+- Fast and Simple 
+- One click copy 
+- Open Source 
+
+### Thanks for Reading 😄
+
+Use now to generate 5 Random color pelettes.
+
+<h3 align="center">WebPage Link - <a href="https://amanraj1608.github.io/Random-colour-palettes/">Here</a>.</h3>
 
 ---
 
-## Random Color Palette
 
-**I have made this automatic color generator with the help of codes available on [Stack Overflow](https://stackoverflow.com/a/41491220/10997917).**
 
-#### [Here](https://amanraj1608.github.io/Random-colour-palettes/) is the live working webpage to get different random color palettes.
+### Author
 
----
-
-## Some of my favorite color palettes which I use for Web development:
-
+[![Aman Raj](https://avatars2.githubusercontent.com/u/42104907?s=130&v=4)](https://jaredallard.me/) 
 <br>
+[Aman Raj](https://github.com/amanraj1608)
 
-Some of the 'My Best' colors:
-
-| Red | Blue | Yellow | Grey | White Grey |
-|:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|
-|#fe4a49 | #2ab7ca | #fed766 | #e6e6ea | #f4f4f8 |
-
-<img src="a.png" alt="color" width="500" height="30">
-
-<br>
-
-Shades of blues. Darkest to lightest blue:
-
-| 1 | 2 | 3 | 4 |  5 |
-|:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|
-|#051e3e | #011f4b | #03396c | #005b96 | #0e9aa7 |
+[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="35" padding="30">](https://linkedin.com/in/amanraj1608)
+[<img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="35" padding="30">](https://www.instagram.com/amanraj1608/)
+[<img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="35" padding="30">](https://twitter.com/amanraj1608)
 
 
-<img src="b.png" alt="color" width="500" height="30">
-
-<br>
-
-Cool Moonlight black - #4a4e4d  &nbsp;    <img src="c.png" alt="color" width="30" height="20">
-
-Night black         - #1e1f26   &nbsp; &nbsp; &nbsp;   <img src="d.png" alt="color" width="30" height="20">
-
----
-
-## Use these sites to make your webpages awesome:
-
-- [Color-hex](https://www.color-hex.com/color-palettes/)
-
-- [Awesome collection](https://digitalsynopsis.com/design/beautiful-color-palettes-combinations-schemes/)
-
-- [Paletton.com](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
